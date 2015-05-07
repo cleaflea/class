@@ -13,7 +13,3 @@ function Class(funcs) {
 }
 
 module.exports = Class
-
-var Hehe = function () {this.a = 1};
-var hehe = new Hehe();
-console.log(hehe.a)

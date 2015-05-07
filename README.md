@@ -1,6 +1,7 @@
 ## usage
 
-* 
+* ./node_modules/.bin/mocha verify -R spec -g 'Implement Class Constructor' 
+* ./node_modules/.bin/mocha verify -R spec -g 'Implement Instance Methods'
 
 ## hint
 
